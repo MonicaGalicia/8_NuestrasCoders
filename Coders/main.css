@@ -1,0 +1,53 @@
+p{
+	font-family:Verdana;
+	font-size:12px;
+	display:inline;
+	color:white;
+}
+#title{
+	border-bottom:2px solid black;
+	color:black;
+}
+div{
+	margin:10px 0px 0px 0px;
+}
+
+img{
+	margin:15px;
+}
+
+#p1{
+	position:absolute;
+	top:220px;
+	left:105px;
+}
+
+#p2{
+	position:absolute;
+	top:220px;
+	left:350px;
+}
+
+#p3{
+    position:absolute;
+	top:220px;
+	left:590px;
+}
+
+#p1a{
+	position:absolute;
+	top:480px;
+	left:105px;
+}
+
+#p1b{
+	position:absolute;
+	top:480px;
+	left:350px;
+}
+#p1c{
+	position:absolute;
+	top:480px;
+	left:600px;
+	}
+	
